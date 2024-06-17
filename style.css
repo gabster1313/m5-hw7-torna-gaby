@@ -110,7 +110,7 @@ main p {
 }
 
 article p:first-of-type:first-letter {
-  float:left
+  float:left;
   line-height: 35px;
   font-size: 55px;
   padding-right: 3px;
